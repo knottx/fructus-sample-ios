@@ -1,2 +1,2 @@
-# Fructus
+# Fructus App
 Sample SwiftUI App

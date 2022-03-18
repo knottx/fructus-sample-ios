@@ -39,6 +39,7 @@ struct FruitCardView: View {
                 
                 // Start button
                 StartButtonView()
+                    .padding(.bottom, 60)
                 
             } //: VStack
         } //: ZStack
